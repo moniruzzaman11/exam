@@ -133,6 +133,7 @@ p{
 }
 li{
 	list-style:none;
+	padding: 4px 0px;
 }
 .notice_bord{
 	background: lavender;
@@ -151,7 +152,7 @@ li{
 }
 .part1{
 	flex:50%;
-	background: #ccc;
+	background: #f5f5f5;
     border: 2px solid #b9b7b7;
 	margin-right: 15px;
 	margin-top:15px;
@@ -160,7 +161,7 @@ li{
 
 .part2{
 	flex:50%;
-	background: #ccc;
+	background: #f5f5f5;
     border: 2px solid #b9b7b7;
 	
 	margin-top:15px;
@@ -170,4 +171,44 @@ li{
 	padding:27px;
 }
 
+
+#icon_2{
+	float: left;
+    padding: 22px 10px;
+}
+
+#contents .block {
+    overflow: hidden;
+}
+#contents .block {
+    width: 100%;
+}
+.bk-org {
+    background-color: #609513 !important;
+    color: #fff;
+	padding: 10px;
+	margin-top:15px;
+}
+.video {
+    
+}
+.footer_img{
+	width:1200px;
+	
+}
+.navbar_buttom{
+	display:flex;
+	justify-content:space-between;
+}
+
+.bottom{
+	background:#fafafa;
+}
+
+/* #contents .block > h5 {
+    padding: 5px;
+    font-size: 1.2em;
+    overflow: hidden;
+}
+ */
 
